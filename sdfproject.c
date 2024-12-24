@@ -495,7 +495,7 @@ int main() {
 }
 
 void displayMenu() {
-    printf("\nScientific Calculator Menu:\n");
+    printf("Scientific Calculator Menu:\n");
     printf("Basic Operations:\n");
     printf("1. Addition\n");
     printf("2. Subtraction\n");
